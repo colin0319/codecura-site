@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "CodeCura",
   description: "Biological Pioneers - Innovating biology with AI",
   icons: {
-    icon: "/favicon.png", // 또는 /favicon.png
+    icon: "/codecura-logo.png", // 또는 /favicon.png
   },
 };
 
