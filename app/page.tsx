@@ -68,6 +68,14 @@ export default function CodeCuraLanding() {
       badge: "Supported by Baist",
       image: "/project-3.png",
     },
+    {
+      id: "p4",
+      title: "Alcheimer's Disease with bigdata - Research Paper",
+      author: "Colin.C",
+      when: "July, 2025",
+      badge: "Paper",
+      image: "/project-4.png",
+    },
   ];
 
   return (
